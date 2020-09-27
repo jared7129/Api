@@ -12,8 +12,6 @@
     <SignAssembly>True</SignAssembly>
     <AssemblyOriginatorKeyFile>Api.snk</AssemblyOriginatorKeyFile>
     <LangVersion>latest</LangVersion>
-    <Authors>Michael Vivet</Authors>
-    <Owners>Michael Vivet</Owners>
     <Product>Api</Product>
     <Summary>Google Places API</Summary>
     <NeutralLanguage>en-US</NeutralLanguage>
