@@ -18,7 +18,7 @@
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     <PackageIcon>icon.jpg</PackageIcon>
     <PackageIconUrl />
-    <PackageProjectUrl>https://github.com/vivet/Api</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/jared7129/Api.git</PackageProjectUrl>
     <PublishRepositoryUrl>true</PublishRepositoryUrl>
     <IncludeSymbols>true</IncludeSymbols>
     <SymbolPackageFormat>snupkg</SymbolPackageFormat>
